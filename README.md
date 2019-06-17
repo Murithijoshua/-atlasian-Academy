@@ -1,2 +1,2 @@
 # -atlasian-Academy
-ONE PAGE LINK DIRECTOR TO VARIOUD Atlassian SofDev tools
+ONE PAGE LINK DIRECTOR TO VARIOUS Atlassian SofDev tools
